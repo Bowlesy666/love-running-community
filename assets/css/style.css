@@ -189,3 +189,15 @@ hr {
     background: url("../images/ethos-center-image.jpg") no-repeat center center;
     border-radius: 50%;
 }
+
+/* meetup section */
+
+#times {
+    /* using background-image didnt seem to use shorthand so had to include all below it */
+    background-image: url("../images/dublin-city.webp");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
